@@ -1,0 +1,44 @@
+[
+  {
+    "id": "paris",
+    "name": "Paris, France",
+    "coordinates": [2.3522, 48.8566],
+    "description": "The City of Light",
+    "bounds": [[2.2241, 48.8155], [2.4699, 48.9021]]
+  },
+  {
+    "id": "rome",
+    "name": "Rome, Italy",
+    "coordinates": [12.4964, 41.9028],
+    "description": "The Eternal City",
+    "bounds": [[12.35, 41.80], [12.60, 42.00]]
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo, Japan",
+    "coordinates": [139.6917, 35.6895],
+    "description": "The bustling capital of Japan",
+    "bounds": [[139.55, 35.55], [139.85, 35.80]]
+  },
+  {
+    "id": "newyork",
+    "name": "New York, USA",
+    "coordinates": [-74.0060, 40.7128],
+    "description": "The city that never sleeps",
+    "bounds": [[-74.2591, 40.4774], [-73.7002, 40.9176]]
+  },
+  {
+    "id": "london",
+    "name": "London, UK",
+    "coordinates": [-0.1276, 51.5072],
+    "description": "Capital of England and the UK",
+    "bounds": [[-0.5103, 51.2868], [0.3340, 51.6919]]
+  },
+  {
+    "id": "sydney",
+    "name": "Sydney, Australia",
+    "coordinates": [151.2093, -33.8688],
+    "description": "Famous for its Opera House",
+    "bounds": [[150.5209, -34.1183], [151.3430, -33.5781]]
+  }
+]
