@@ -3,6 +3,8 @@
 
 TravelPlan is a web app that allows you to plan trips, build itineraries, and save and share drafts for your travels.
 
+---
+
 ## Features
 
 - Sign up and log in
@@ -11,6 +13,8 @@ TravelPlan is a web app that allows you to plan trips, build itineraries, and sa
 - Choose from templates
 - Plan with an easy-to-use interface
 
+---
+
 ## Tech Stack
 
 - React & TypeScript
@@ -18,16 +22,19 @@ TravelPlan is a web app that allows you to plan trips, build itineraries, and sa
 - Shadcn UI
 - Firebase (for auth & drafts)
 
+---
+
 ## Deploy & Share
 
 [TravelPlan Live Demo](https://travel-plan-theta-one.vercel.app/)
+
+---
 
 **TEMPLATES**
 <img width="1322" height="910" alt="Screenshot 2025-08-21 014921" src="https://github.com/user-attachments/assets/de46bfe5-64e9-4a82-a84c-a97e160ad167" />
 
 **LOCATIONS || MAPS || DETAILS**
 <img width="1275" height="906" alt="image" src="https://github.com/user-attachments/assets/a508ef1a-1288-4a3c-9b32-8fedd7a7232b" />
-
 
 ---
 
