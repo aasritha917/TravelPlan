@@ -20,7 +20,8 @@ TravelPlan is a web app that allows you to plan trips, build itineraries, and sa
 
 ## Deploy & Share
 
-https://travel-plan-theta-one.vercel.app/
+##[TravelPlan Live Demo](https://travel-plan-theta-one.vercel.app/)
+
 ---
 
 Made with 💙 Aasritha. K
